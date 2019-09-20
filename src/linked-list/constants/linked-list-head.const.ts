@@ -1,0 +1,1 @@
+export const LinkedListHead: unique symbol = Symbol('linkedListHead');
